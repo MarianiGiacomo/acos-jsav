@@ -6,6 +6,7 @@ Type.addToHead = function(params){
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
     <script src="/static/jsav/jquery.transit.js"></script>
     <script src="/static/jsav/raphael.js"></script>
+    <script src="/static/jsav/gradeListener.js"></script>
     <script src="/static/jsav/JSAV-min.js"></script>
     `
 }
