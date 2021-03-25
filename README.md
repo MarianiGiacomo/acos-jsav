@@ -13,4 +13,4 @@ Stylesheets:
 Other files:
 - `gradeListener.js`: listens for `jsav-log-event` and when a `jsav-exercise-grade` is detected, it extracts the points and sends them to the Acos server.
 
-Exercises can be implemented for example with the [acos-jsav-vas](https://github.com/MarianiGiacomo/acos-jsav-vas/edit/main/README.md) Acos content package.
+Exercises can be implemented for example with the [acos-jsav-vas](https://github.com/MarianiGiacomo/acos-jsav-vas) Acos content package.
